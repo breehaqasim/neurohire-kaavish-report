@@ -1,10 +1,10 @@
-# 🚀 NeuroHire: AI-Driven Recruitment Booth
+# NeuroHire: AI-Driven Recruitment Booth
 
 NeuroHire is an AI-powered recruitment system designed to automate and standardize early-stage candidate screening, particularly for **mass hiring scenarios**. The system integrates **CV analysis, speech processing, and behavioral evaluation** into a unified, multimodal pipeline to enable scalable, consistent, and fair hiring decisions.
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 Traditional recruitment processes, especially in high-volume and entry-level hiring, rely heavily on manual screening, leading to inefficiencies, inconsistencies, and potential bias. NeuroHire addresses these challenges by introducing a **structured and automated recruitment booth** where candidates:
 
@@ -24,7 +24,7 @@ By combining these modalities, NeuroHire enables **data-driven, explainable, and
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Multimodal candidate evaluation (CV + Speech + Behavior)  
 - LLM-based semantic job matching  
@@ -35,7 +35,7 @@ By combining these modalities, NeuroHire enables **data-driven, explainable, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, HTML/CSS  
 - **Backend**: Node.js, REST APIs  
@@ -45,7 +45,7 @@ By combining these modalities, NeuroHire enables **data-driven, explainable, and
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - Breeha Qasim  
 - Irfan Sohail  
@@ -54,7 +54,7 @@ By combining these modalities, NeuroHire enables **data-driven, explainable, and
 
 ---
 
-## 📬 Contact
+## Contact
 
 For queries or collaboration:
 
@@ -65,7 +65,7 @@ For queries or collaboration:
 
 ---
 
-## 🎯 Future Work
+## Future Work
 
 - Real-time feedback for candidates  
 - Integration with enterprise HR systems  
@@ -74,6 +74,6 @@ For queries or collaboration:
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 This project is developed as part of the **Kaavish Final Year Project** under the Department of Computer Science.
