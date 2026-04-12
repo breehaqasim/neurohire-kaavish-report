@@ -40,7 +40,7 @@ By combining these modalities, NeuroHire enables **data-driven, explainable, and
 - **Frontend**: React.js, HTML/CSS  
 - **Backend**: Node.js, REST APIs  
 - **AI/ML**: LLMs, Speech Recognition, Computer Vision  
-- **Database**: MongoDB / Firebase  
+- **Database**: Postgres SQL  
 - **Other Tools**: OCR, OpenCV  
 
 ---
