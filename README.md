@@ -59,8 +59,8 @@ By combining these modalities, NeuroHire enables **data-driven, explainable, and
 For queries or collaboration:
 
 - Breeha Qasim – [https://linkedin.com/in/breeha-qasim](https://www.linkedin.com/in/breehaqasim/)  
-- Irfan Sohail – https://linkedin.com/in/irfan-sohail  
-- Namel Shahid – https://linkedin.com/in/namel-shahid  
+- Irfan Sohail – [https://linkedin.com/in/irfan-sohail](https://www.linkedin.com/in/irfan-sohail-541150370?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
+- Namel Shahid – [https://linkedin.com/in/namel-shahid](www.linkedin.com/in/namel-shahid-4985722b0)  
 - Khawar Mehmood Awan – https://linkedin.com/in/khawar-mehmood-awan  
 
 ---
