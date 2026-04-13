@@ -143,6 +143,37 @@ INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.s
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\upquote\upquote.sty
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT .\report.aux
 INPUT .\report.aux
 INPUT report.aux
@@ -180,6 +211,9 @@ INPUT .\report.out
 OUTPUT report.out
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT .\titlepage.tex
 INPUT .\titlepage.tex
 OUTPUT titlepage.aux
@@ -241,12 +275,51 @@ INPUT .\chapters\review.tex
 INPUT .\chapters\review.tex
 INPUT .\chapters\review.tex
 INPUT chapters\review.tex
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT .\chapters\srs.tex
 INPUT .\chapters\srs.tex
 INPUT .\chapters\srs.tex
 INPUT .\chapters\srs.tex
 INPUT chapters\srs.tex
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti8.tfm
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
+INPUT .\NeuroHire System Candidate-2026-04-11-144308.png
+INPUT .\NeuroHire System Candidate-2026-04-11-144308.png
+INPUT .\NeuroHire System Candidate-2026-04-11-144308.png
+INPUT .\NeuroHire System Candidate-2026-04-11-144308.png
+INPUT .\NeuroHire System Candidate-2026-04-11-144308.png
+INPUT .\NeuroHire System Candidate-2026-04-11-144308.png
+INPUT .\NeuroHire System Candidate-2026-04-11-144308.png
+INPUT .\NeuroHire System Candidate-2026-04-11-141002.png
+INPUT .\NeuroHire System Candidate-2026-04-11-141002.png
+INPUT .\NeuroHire System Candidate-2026-04-11-141002.png
+INPUT .\NeuroHire System Candidate-2026-04-11-141002.png
+INPUT .\NeuroHire System Candidate-2026-04-11-141002.png
+INPUT .\NeuroHire System Candidate-2026-04-11-141002.png
+INPUT .\NeuroHire System Candidate-2026-04-11-141002.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143101.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143101.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143101.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143101.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143101.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143101.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143101.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143912.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143912.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143912.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143912.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143912.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143912.png
+INPUT .\NeuroHire System Candidate-2026-04-11-143912.png
+INPUT .\system diagram.png
+INPUT .\system diagram.png
+INPUT .\system diagram.png
+INPUT .\system diagram.png
+INPUT .\system diagram.png
+INPUT .\system diagram.png
+INPUT .\system diagram.png
 INPUT .\chapters\sds.tex
 INPUT .\chapters\sds.tex
 INPUT .\chapters\sds.tex
@@ -285,10 +358,6 @@ INPUT chapters\appendix-code.tex
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti8.tfm
 INPUT report.aux
 INPUT .\titlepage.aux
 INPUT .\titlepage.aux
@@ -306,15 +375,17 @@ INPUT C:\Users\breeh\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcr
 INPUT C:\Users\breeh\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0800.pk
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti8.pfb
 INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti8.pfb
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
-INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
+INPUT C:\Users\breeh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb

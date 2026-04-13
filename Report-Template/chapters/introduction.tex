@@ -1,18 +1,54 @@
 \section{Problem Statement}
+Recruitment and selection are critical processes for every organization, yet traditional hiring practices are often time-consuming, labor-intensive, and prone to inconsistency. Recruiters must manually review large numbers of CVs, shortlist candidates, conduct interviews, and compare applicants across multiple criteria. This becomes even more difficult in remote and high-volume hiring settings, where the number of applicants can exceed the capacity of human evaluators.
 
-This section explains the problem we are solving and our motivation to do so.
+Recent advances in artificial intelligence have improved several parts of the recruitment pipeline, such as resume screening, interview automation, and candidate matching. However, many existing systems address only isolated tasks. Some focus mainly on resume parsing, others on speech recognition, while some analyze visual or behavioral cues from interviews. This fragmentation creates a gap in practical hiring systems, since recruiters often need a unified view of candidate suitability rather than separate outputs from disconnected tools.
+
+Another challenge is that hiring decisions are not based only on qualifications written in a CV. Spoken responses, communication quality, clarity of answers, and observable behavioral cues during interviews may also provide useful information. Existing approaches often do not combine these dimensions in a structured and interpretable way. Moreover, concerns related to fairness, transparency, and reliability remain important when artificial intelligence is applied in recruitment.
+
+Therefore, the problem addressed in this project is the lack of an integrated and explainable recruitment support system that can analyze candidate information from multiple modalities, including CVs, interview speech, and behavioral video cues, in a single framework.
 
 \section{Proposed Solution}
+To address this problem, this project proposes \textbf{NeuroHire}, an AI-assisted recruitment support system for multimodal candidate evaluation. The system is designed to assist recruiters by combining three major capabilities within a unified pipeline.
 
-This section gives a summary of our proposed solution, i.e. how does it solve the problem? An overview of the system is provided. A detailed description of each module of the system is presented later in Chapter ~\ref{chap:intro}.
+First, NeuroHire performs \textbf{CV analysis} to extract and organize relevant candidate information, enabling structured screening of resumes. This helps reduce the manual effort required in early-stage shortlisting and supports more consistent initial evaluation.
+
+Second, the system performs \textbf{speech-based interview analysis}. Candidate responses from video interviews are transcribed and processed to assess their relevance to the given interview question, along with qualities such as clarity and confidence. This enables the system to move beyond simple transcription and support structured understanding of candidate responses.
+
+Third, NeuroHire includes \textbf{behavioral video analysis} to observe cues such as gaze direction, head movement, and facial stability during interviews. These cues are not treated as final indicators on their own, but as supportive signals that can help assess engagement and interview interaction behavior.
+
+The outputs of these modules are combined into a structured evaluation framework that supports decision-making for recruiters. In addition, the system includes quality checks so that poor video conditions, such as blur or inadequate lighting, can be flagged for human review. In this way, NeuroHire aims to provide a more comprehensive and practical recruitment aid than systems that focus on only one stage of hiring.
 
 \section{Intended User}
+NeuroHire is designed for a multi-user recruitment environment involving candidates, recruiters, companies, and a super admin. Each user type interacts with the system according to its specific role in the hiring process.
 
-This section outlines the target users of this system. The different types of users in our user base and their interaction with the system are described briefly.
+\textbf{Candidate:}  
+The candidate is one of the primary users of the system. A candidate interacts with NeuroHire by selecting a preferred language for the interview, uploading a CV, selecting an available job, reviewing submitted information, and recording a video interview response. This allows the system to collect the required data for CV-based screening, speech analysis, and behavioral evaluation.
+
+\textbf{Recruiter:}  
+Recruiters use the system to manage recruitment activities related to their organization. Their responsibilities include adding, editing, and deleting job postings, reviewing applicants for posted jobs, and monitoring statistics related to jobs and applicants. Recruiters can also report issues or submit error-related complaints through the system when necessary.
+
+\textbf{Company:}  
+The company user supervises recruiter-level activity within the platform. A company can manage recruiters by accepting or rejecting recruiter registrations and can review overall statistics related to recruitment activity. This role helps ensure that only authorized recruiters are allowed to operate under the company’s account.
+
+\textbf{Super Admin:}  
+The super admin is responsible for platform-level administration. This user manages companies by accepting or rejecting company registrations and can review system-wide statistics. The super admin ensures overall control, governance, and proper onboarding of organizations using the platform.
+
+Overall, NeuroHire is intended for a structured hiring ecosystem in which each user type contributes to a different stage of the recruitment and administration process.
 
 \section{Project gantt chart and deliverables}
 Please include a detailed gantt and details of the deliverables for Kaavish I and II
 
 \section{Key Challenges}
+The development of NeuroHire involves several important challenges.
 
-This section mentions the key challenges that we foresee in this project and possible ways to address them.
+One major challenge is \textbf{multimodal integration}. NeuroHire combines CV analysis, speech-based response evaluation, and behavioral video analysis within a single system. Since these modules process different types of input data, their outputs must be integrated carefully so that the final evaluation remains meaningful, consistent, and easy to interpret. This challenge can be addressed by designing the system using a modular architecture, where each component performs its own task independently and then passes structured outputs to a central scoring or decision layer.
+
+Another challenge is \textbf{speech transcription accuracy}. Since the system relies on transcription of interview responses before evaluating answer relevance, clarity, and confidence, any error in speech recognition may affect downstream analysis. This issue becomes more significant in multilingual settings, varied accents, or noisy environments. A possible way to address this challenge is to use a robust speech recognition model, support controlled interview conditions, and include preprocessing or confidence-based checks before passing the transcript to later stages of analysis.
+
+The system also faces challenges in \textbf{behavioral cue interpretation}. Signals such as gaze direction, blinking, facial stability, or head movement can provide useful indicators of candidate engagement and interaction behavior, but they should not be treated as direct proof of candidate suitability or dishonesty. These cues may be influenced by environmental conditions, camera placement, internet quality, or natural individual differences in behavior. This challenge can be addressed by treating behavioral features as supportive indicators only, rather than final decision variables, and by allowing uncertain cases to be flagged for human review.
+
+Another important challenge is \textbf{video quality and environmental variability}. Since NeuroHire depends on video input for behavioral analysis, poor lighting, blurred frames, low-resolution webcams, or unstable internet connections may reduce the reliability of extracted visual features. To address this issue, the system can include video quality checks such as blur detection and lighting assessment, and discard or down-weight unreliable behavioral scores when the input quality falls below acceptable thresholds.
+
+A further challenge is \textbf{fairness and explainability}. AI-based recruitment systems may raise concerns if their outputs are difficult to understand or if users believe the system may introduce bias. This is especially important in hiring contexts, where trust and transparency are essential. A possible way to address this challenge is to design NeuroHire as a decision-support system rather than a fully autonomous decision-maker, and to provide structured score components that help recruiters understand how the system reached its evaluation.
+
+Finally, \textbf{user trust and practical adoption} remain important challenges. Even if the system performs well technically, recruiters and organizations may hesitate to rely on it unless it aligns with real hiring workflows and produces understandable results. This challenge can be addressed by ensuring that the system output is simple, interpretable, and aligned with practical recruitment needs, while keeping human decision-makers involved in the final hiring process.
